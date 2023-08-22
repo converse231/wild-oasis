@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # The Wild Oasis
 
-Main Project in UDEMY ultimate react course
+Main Project in UDEMY ultimate react course. Built with React Query and Supabase
